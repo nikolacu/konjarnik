@@ -1,0 +1,209 @@
+*{
+	 padding : 0px;
+	 margin : 0px;
+	 border : 0px;
+}
+body{
+	 background-image : url('images/pozadina2.jpg');
+	 background-attachment : fixed;
+	 background-size : 100% auto;
+}
+
+/* HEADER */ 
+
+#holder{
+	 display : block;
+	 width : 900px;
+	 overflow : auto;
+	 margin : 30px auto 0 auto;
+}
+#header{
+	height: 150px;
+    background-color: blueviolet;	
+}
+#logo{
+	height:115px;
+}
+#menu{
+    float: left;
+    margin-left: 10px;
+}
+#menu ul{   
+    list-style: none;
+}
+#menu li{   
+    margin-right: 10px;
+    display: inline;
+    float:left;
+}
+#menu li a{
+	font-size: 20px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    margin: 0px auto;
+}
+#menu li a:hover {
+    background-color: #ccc;
+    color: blueviolet;
+}
+#search{
+	height: 33px;
+	float:right;
+	margin-right:15px;
+}
+#tbSearch{
+	height: 33px;
+	width: 170px;
+}
+#searchButton{
+	height: 33px;
+	
+}
+
+/* MIDDLE */
+
+#pageLeftMenu{
+	 background-color : #cccccc;
+	 float : left;
+	 clear : none;
+	 height: 1250px;
+	 width : 200px;
+}
+.blockLeft{
+	margin-top: 30px;
+	margin-left: 15px;
+}
+#btnSend{
+	width :70px;
+}
+#btnSendLogin{
+	margin: 3px 0px 3px 0px;	
+}
+#pageContent{
+	 background-color : #ffffcc;
+	 float : left;
+	 clear : none;
+	 width : 700px;
+	 height: 1250px;
+}
+
+.block1{
+	margin: 30px 15px 15px 15px;
+}
+#cleaner{
+	clear : both;
+}
+
+/* FOOTER */
+
+#footer{
+	 background-color : blueviolet;
+	 float : left;
+	 clear : none;
+	 width : 900px;
+}
+#footer ul{   
+    list-style: none;
+}
+#footer li{   
+    margin-right: 10px;
+    display: inline;
+    float:left;
+}
+#footer li a{
+    padding: 5px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    margin: 0px auto;
+	color: #cccccc;
+}
+
+#menuFooter{
+	width:150px;
+	float:left;
+	margin: 15px;
+}
+#logoFooter{
+	width:150px;
+	margin: 45px 0px 0px 187.5px;
+	float:left;
+}
+#desnoFooter{
+	float:right;
+}
+/* stranice posebno */
+
+#pageLeftMenuIstorija{
+	background-color : #cccccc;
+	float : left;
+	clear : none;
+	width : 200px;
+	height: 1300px;
+}
+#pageContentIstorija{
+	background-color : #ffffcc;
+	float : left;
+	clear : none;
+	width : 700px;
+	height: 1300px;
+}
+#pageLeftMenuAutor{
+	background-color : #cccccc;
+	float : left;
+	clear : none;
+	width : 200px;	
+	height: 600px;
+}
+#pageContentAutor{
+	background-color : #ffffcc;
+	float : left;
+	clear : none;
+	width : 700px;
+	height: 600px;
+}
+#pageLeftMenuSaobracaj{
+	background-color : #cccccc;
+	float : left;
+	clear : none;
+	height: 900px;
+	width : 200px;
+}
+#pageContentSaobracaj{
+	background-color : #ffffcc;
+	float : left;
+	clear : none;
+	width : 700px;
+	height: 900px;
+}
+#pageContentReg, #pageContentZabLo{
+	background-color : #ffffcc;
+	float : left;
+	clear : none;
+	width : 700px;
+	height: 600px;
+}
+#pageLeftMenuReg, #pageLeftMenuZabLo{
+	background-color : #cccccc;
+	float : left;
+	clear : none;
+	height: 600px;
+	width : 200px;
+}
+#pageLeftMenuZanimljivo{
+	 background-color : #cccccc;
+	 float : left;
+	 clear : none;
+	 height: 1500px;
+	 width : 200px;
+}
+#pageContentZanimljivo{
+	background-color : #ffffcc;
+	float : left;
+	clear : none;
+	width : 700px;
+	height: 1500px;
+}

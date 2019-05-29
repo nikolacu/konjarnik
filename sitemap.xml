@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://konjarnik.000webhostapp.com/</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://konjarnik.000webhostapp.com/index.html</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://konjarnik.000webhostapp.com/istorija.html</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://konjarnik.000webhostapp.com/saobracaj.html</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://konjarnik.000webhostapp.com/zanimljivo.html</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://konjarnik.000webhostapp.com/oAutoru.html</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://konjarnik.000webhostapp.com/zaboravljenaLozinka.html</loc>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://konjarnik.000webhostapp.com/registracija.html</loc>
+  <changefreq>yearly</changefreq>
+</url>
+</urlset>
